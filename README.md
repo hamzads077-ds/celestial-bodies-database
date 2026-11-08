@@ -29,3 +29,8 @@ The database `universe` consists of 5 interconnected tables:
 * **Complete Dataset:** Populated with multi-row records meeting all automated validation checks.
 
 ---
+
+## 📜 Course Link
+
+This project is part of the official curriculum:
+- 🎓 **Course:** [freeCodeCamp Relational Database Certification](https://www.freecodecamp.org/learn/relational-database/)
