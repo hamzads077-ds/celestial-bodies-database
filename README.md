@@ -33,4 +33,4 @@ The database `universe` consists of 5 interconnected tables:
 ## 📜 Course Link
 
 This project is part of the official curriculum:
-- 🎓 **Course:** [freeCodeCamp Relational Database Certification](https://www.freecodecamp.org/learn/relational-database/)
+- 🎓 **Course**: [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/learn/relational-database/)
