@@ -34,3 +34,12 @@ The database `universe` consists of 5 interconnected tables:
 
 This project is part of the official curriculum:
 - 🎓 **Course**: [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/learn/relational-database/)
+
+
+---
+
+## 📊 Repository Stats
+
+[![Stars](https://img.shields.io/github/stars/hamzads077-ds/celestial-bodies-database?style=for-the-badge&logo=github&color=yellow)](https://github.com/hamzads077-ds/celestial-bodies-database/stargazers)
+[![Forks](https://img.shields.io/github/forks/hamzads077-ds/celestial-bodies-database?style=for-the-badge&logo=github&color=blue)](https://github.com/hamzads077-ds/celestial-bodies-database/network/members)
+[![Views](https://komarev.com/ghpvc/?username=hamzads077-ds-celestial-bodies-database&style=for-the-badge&color=brightgreen&label=VIEWS)](https://github.com/hamzads077-ds/celestial-bodies-database)
